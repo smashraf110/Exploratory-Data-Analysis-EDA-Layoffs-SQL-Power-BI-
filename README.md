@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-EDA-Layoffs-SQL-Power-BI-
 
-
+<img width="1308" height="741" alt="Image" src="https://github.com/user-attachments/assets/0c7ac5c0-bc37-4824-91ae-50980e1eae56" />
 
 ## Subtitle:
 A portfolio project using a real, publicly available dataset, showcasing SQL-based exploratory data analysis and visual storytelling through Power BI.
